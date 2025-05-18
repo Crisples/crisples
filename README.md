@@ -1,9 +1,13 @@
-## 👋 Hello there
-Currently learning Data Analysis, trying to be better version of myself.
+## 👋 Hello there whoever you are
+Basically Mr. Nobody. Currently learning Data Analysis, trying to be better version of myself.
 
 About me:
-- Part-time musician 🎺
-- Certified yapper 🗣
-- Star Wars enjoyer 💫
+- Part-time musician 
+- Certified yapper 
+- Star Wars enjoyer 
 
+Looking for job.
+
+Contact:
+- via mail
 Some projects coming soon...
