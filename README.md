@@ -1,5 +1,9 @@
-## Hi there 👋
+## Currently learning Data Analysis
 
+Projects coming soon...
+
+
+https://roadmap.sh/card/tall/6824f7f42755c7024412a12c?variant=dark
 <!--
 **Crisples/crisples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
