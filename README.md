@@ -1,9 +1,11 @@
-## Currently learning Data Analysis
+## 👋 Hello there
+Currently learning Data Analysis, trying to be better version of myself.
 
-Projects coming soon...
+Some projects coming soon...
 
+Progress:
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6824f7f42755c7024412a12c?variant=dark" alt="roadmap.sh"/></a>
 
-https://roadmap.sh/card/tall/6824f7f42755c7024412a12c?variant=dark
 <!--
 **Crisples/crisples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
