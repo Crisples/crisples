@@ -13,8 +13,5 @@ Looking for job.
 - CSS
 - JavaScript
 
-## Contact:
-<a href="https://www.linkedin.com/in/micha%C5%82-surdyka-86257431b" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" style="width:2%"></img></a>
-
 ## Projects:
 Some projects coming soon...
