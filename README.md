@@ -1,5 +1,5 @@
 ## 👋 Hello there
-Currently learning Data Analysis, trying to be better version of myself.
+Currently learning Python, trying to be better version of myself.
 
 ## About me:
 - Part-time musician 
