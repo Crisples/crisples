@@ -9,5 +9,6 @@ About me:
 Looking for job.
 
 Contact:
-- via mail
+- via LinkedIn
+  
 Some projects coming soon...
