@@ -9,6 +9,6 @@ About me:
 Looking for job.
 
 Contact:
-- via LinkedIn
+- via <a src="https://www.linkedin.com/in/micha%C5%82-surdyka-86257431b">LinkedIn</a>
   
 Some projects coming soon...
