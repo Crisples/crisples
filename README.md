@@ -6,8 +6,6 @@ Full-time Prompt Engineer.
 - 3D modelling for fun
 - Star Wars enjoyer 
 
-Looking for job.
-
 ## Skills:
 - HTML
 - CSS
