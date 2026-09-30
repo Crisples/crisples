@@ -10,6 +10,9 @@ Full-time Prompt Engineer.
 - HTML
 - CSS
 - JavaScript
+- Lua
+- Python
+- GD Script
 
 ## Projects:
 - Lockvale - Portable password vault made with Claude
