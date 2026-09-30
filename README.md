@@ -14,4 +14,4 @@ Looking for job.
 - JavaScript
 
 ## Projects:
-- pCrypt - Password vault made with Claude
+- Lockvale - Portable password vault made with Claude
