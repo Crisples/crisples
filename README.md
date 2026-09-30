@@ -7,12 +7,7 @@ Full-time Prompt Engineer.
 - Star Wars enjoyer 
 
 ## Skills:
-- HTML
-- CSS
-- JavaScript
-- Lua
-- Python
-- GD Script
+- Claude employee of the year
 
 ## Projects:
 - Lockvale - Portable password vault made with Claude
