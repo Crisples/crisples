@@ -11,3 +11,5 @@ Full-time Prompt Engineer.
 
 ## Projects:
 - Lockvale - Portable password vault made with Claude
+- Oziris Hub - Control Panel for your AI Agents
+- Joomla CMS Article creation extension
