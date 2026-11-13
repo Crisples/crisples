@@ -6,8 +6,6 @@
 I build practical tools for problems that don't have an off-the-shelf answer.
  
 </div>
-
----
  
 ## Languages
  
