@@ -8,7 +8,7 @@ I build practical tools for problems that don't have an off-the-shelf answer.
 </div>
 ---
  
-## 💻 Languages
+## Languages
  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -21,7 +21,7 @@ I build practical tools for problems that don't have an off-the-shelf answer.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
  
-## 🛠 Technologies & Frameworks
+## Technologies & Frameworks
  
 ![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat&logo=joomla&logoColor=white)
@@ -29,33 +29,33 @@ I build practical tools for problems that don't have an off-the-shelf answer.
 ![Roblox](https://img.shields.io/badge/Roblox_Studio-000000?style=flat&logo=roblox&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat&logoColor=white)
 
-## 🤖 AI Agents
-![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
+## AI Agents
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
  
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔐 Lockvale: Portable Password Vault
+### Lockvale: Portable Password Vault
 A portable, self-contained password manager designed to travel with you.
 
-### 🤖 Oziris Hub: Control Panel for Claude Agents
+### Oziris Hub: Control Panel for Claude Agents
 A management dashboard for monitoring and controlling Claude-based agents.
 
-### 🧩 Joomla Article Creator
+### Joomla Article Creator
 A Joomla CMS extension for creating and managing articles.
 
-### 📊 Excel → LibreOffice / OpenOffice Converter
+### Excel → LibreOffice / OpenOffice Converter
 Converts Excel spreadsheets into LibreOffice/OpenOffice-compatible formats.
 
-### 🎮 Other Projects
+### Other Projects
 - **GTA 5 RP Server Scripts**: gameplay scripts (Lua) for FiveM roleplay servers.
 - **How to Farm (Roblox)**: a Roblox game.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Area | Technologies |
 |------|--------------|
@@ -65,19 +65,19 @@ Converts Excel spreadsheets into LibreOffice/OpenOffice-compatible formats.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💼 Full-time IT specialist
-- 🌐 Web & CMS developer
-- 🧠 I enjoy building custom solutions for unusual problems
-- 🔭 Currently working on tools that combine automation and AI agents
+-  Full-time IT specialist
+-  Web & CMS developer
+-  I enjoy building custom solutions for unusual problems
+-  Currently working on tools that combine automation and AI agents
 
 ---
 
-## 📫 Connect
+## Connect
 
-- 🌍 Website: *coming soon*
-- 💼 LinkedIn: *coming soon*
+-  Website: *coming soon*
+-  LinkedIn: *coming soon*
 
 ---
 
