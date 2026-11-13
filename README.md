@@ -28,7 +28,9 @@ I build practical tools for problems that don't have an off-the-shelf answer.
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox_Studio-000000?style=flat&logo=roblox&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Agents-D97757?style=flat&logoColor=white)
+
+## 🤖 AI Agents
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
  
 ---
