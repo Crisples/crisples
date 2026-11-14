@@ -40,9 +40,6 @@ I build practical tools for problems that don't have an off-the-shelf answer.
 ### Lockvale: Portable Password Vault
 A portable, self-contained password manager designed to travel with you.
 
-### Oziris Hub: Control Panel for Claude Agents
-A management dashboard for monitoring and controlling Claude-based agents.
-
 ### Joomla Article Creator
 A Joomla CMS extension for creating and managing articles.
 
